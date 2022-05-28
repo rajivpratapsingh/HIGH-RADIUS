@@ -1,0 +1,118 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+table {
+  background-color: #283d4a;
+}
+.clearpart {
+  padding: 0px !important;
+}
+th {
+  color: #fff !important;
+  font-weight: bold !important;
+}
+td {
+  padding: 0px !important;
+  margin: 0px !important;
+  color: #fff !important;
+}
+.del {
+  background-color: #283d4a;
+  color: #fff;
+}
+.dele {
+  color: #fff !important;
+}
+.buton {
+  border: 2px solid white;
+  border-radius: 7px;
+}
+.bar {
+  width: 100%;
+  height: 100px;
+  background-color: #2d4250;
+}
+.container {
+  bottom: 0;
+}
+.Nav {
+  background-color: #2d4250;
+  height: 80px;
+}
+.Nav1 {
+  background-color: #283d4a;
+  height: 70px;
+}
+.foo {
+  width: 100%;
+  height: 70px;
+  background-color: #2d4250;
+  text-align: center;
+}
+.text {
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+.super-app-theme--header {
+  background-color: #283d4a;
+}
+.btn {
+  color: white;
+  width: 195px;
+}
+.btn:hover {
+  background-color: #002ead;
+  transition: 0.7s;
+}
+.abc {
+  background-color: "#283D4A";
+  color: "#fff";
+  padding-left: "60px";
+  padding-right: "60px";
+}
+.ctn {
+  margin-left: 575px;
+  flex: 1;
+  flex-direction: row;
+}
+.two {
+  position: absolute;
+  left: 40%;
+  right: 60%;
+  top: 0px;
+}
+.one {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.gridStyle {
+  background-color: "#283D4A";
+  color: "#fff";
+}
+.predict {
+  background-color: #14aff1 !important;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+.ana {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.adv {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.page {
+  color: #fff;
+  background-color: #283d4a;
+}
+.raj {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: offset;
+  width: 240px !important;
+}
